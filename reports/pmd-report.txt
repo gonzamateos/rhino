@@ -1,0 +1,830 @@
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/LogicalEquality.java:14:	The class 'LogicalEquality' has a Cyclomatic Complexity of 6 (Highest = 11).
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/LogicalEquality.java:16:	The method 'nodesEqual' has a Cyclomatic Complexity of 10.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/LogicalEquality.java:63:	The method 'elementsEqual' has a Cyclomatic Complexity of 11.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/NamespaceHelper.java:14:	The class 'NamespaceHelper' has a Cyclomatic Complexity of 5 (Highest = 11).
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/NamespaceHelper.java:168:	The method 'getNamespace' has a Cyclomatic Complexity of 11.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:21:	Avoid really long classes.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:21:	The class 'XML' has a Cyclomatic Complexity of 4 (Highest = 25).
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:222:	Avoid really long methods.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:222:	The method 'createFromJS' has a Cyclomatic Complexity of 25.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:222:	The method createFromJS() has an NPath complexity of 105984
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:357:	A catch statement should never catch throwable since it includes errors.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:532:	The method 'moveToChild' has a Cyclomatic Complexity of 14.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:1189:	The method 'putXMLProperty' has a Cyclomatic Complexity of 15.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:1352:	The method 'changeNS' has a Cyclomatic Complexity of 10.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:1355:	Avoid empty while statements
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:1477:	The method 'allChildNodes' has a Cyclomatic Complexity of 13.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:1610:	The method 'matchDescendantChildren' has a Cyclomatic Complexity of 14.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:1687:	The method 'matchChildren' has a Cyclomatic Complexity of 13.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:1802:	The method 'addNamespace' has a Cyclomatic Complexity of 10.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:1960:	The method 'childIndex' has a Cyclomatic Complexity of 10.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:2372:	The method 'normalize' has a Cyclomatic Complexity of 10.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:2542:	Avoid really long methods.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:2542:	The method 'removeNamespace' has a Cyclomatic Complexity of 20.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XML.java:2542:	The method removeNamespace() has an NPath complexity of 1617
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLCtor.java:11:	The class 'XMLCtor' has a Cyclomatic Complexity of 6 (Highest = 12).
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLCtor.java:82:	The method 'findInstanceIdInfo' has a Cyclomatic Complexity of 12.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLCtor.java:82:	The method findInstanceIdInfo() has an NPath complexity of 288
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLLibImpl.java:17:	The class 'XMLLibImpl' has a Cyclomatic Complexity of 5 (Highest = 17).
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLLibImpl.java:159:	The method 'toXMLNameOrIndex' has a Cyclomatic Complexity of 17.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLList.java:16:	Avoid really long classes.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLList.java:16:	The class 'XMLList' has a Cyclomatic Complexity of 3 (Highest = 17).
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLList.java:316:	The method 'putXMLProperty' has a Cyclomatic Complexity of 10.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLList.java:397:	Avoid really long methods.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLList.java:397:	The method 'put' has a Cyclomatic Complexity of 17.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLList.java:397:	The method put() has an NPath complexity of 216
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLList.java:1543:	The method 'call' has a Cyclomatic Complexity of 10.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLObjectImpl.java:17:	The class 'XMLObjectImpl' has a Cyclomatic Complexity of 3 (Highest = 56).
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLObjectImpl.java:396:	The method 'findPrototypeId' has a Cyclomatic Complexity of 56.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLObjectImpl.java:401:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLObjectImpl.java:473:	The method 'initPrototypeId' has a Cyclomatic Complexity of 43.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLObjectImpl.java:547:	Avoid really long methods.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLObjectImpl.java:547:	The method 'execIdCall' has a Cyclomatic Complexity of 53.
+deprecatedsrc/org/mozilla/javascript/xml/impl/xmlbeans/XMLObjectImpl.java:547:	The method execIdCall() has an NPath complexity of 552
+examples/File.java:228:	Avoid empty catch blocks
+examples/Shell.java:18:	The class 'Shell' has a Cyclomatic Complexity of 4 (Highest = 18).
+examples/Shell.java:208:	Avoid really long methods.
+examples/Shell.java:208:	The method 'processSource' has a Cyclomatic Complexity of 18.
+src/org/mozilla/classfile/ClassFileWriter.java:25:	Avoid really long classes.
+src/org/mozilla/classfile/ClassFileWriter.java:25:	The class 'ClassFileWriter' has a Cyclomatic Complexity of 7 (Highest = 207).
+src/org/mozilla/classfile/ClassFileWriter.java:278:	Avoid really long methods.
+src/org/mozilla/classfile/ClassFileWriter.java:278:	The method 'stopMethod' has a Cyclomatic Complexity of 21.
+src/org/mozilla/classfile/ClassFileWriter.java:278:	The method stopMethod() has an NPath complexity of 138240
+src/org/mozilla/classfile/ClassFileWriter.java:478:	Avoid really long methods.
+src/org/mozilla/classfile/ClassFileWriter.java:478:	The method 'add' has a Cyclomatic Complexity of 35.
+src/org/mozilla/classfile/ClassFileWriter.java:478:	The method add() has an NPath complexity of 1968
+src/org/mozilla/classfile/ClassFileWriter.java:695:	The method 'add' has a Cyclomatic Complexity of 19.
+src/org/mozilla/classfile/ClassFileWriter.java:695:	The method add() has an NPath complexity of 1104
+src/org/mozilla/classfile/ClassFileWriter.java:776:	The method add() has an NPath complexity of 600
+src/org/mozilla/classfile/ClassFileWriter.java:1179:	The method 'setTableSwitchJump' has a Cyclomatic Complexity of 10.
+src/org/mozilla/classfile/ClassFileWriter.java:1179:	The method setTableSwitchJump() has an NPath complexity of 216
+src/org/mozilla/classfile/ClassFileWriter.java:1432:	Avoid really long classes.
+src/org/mozilla/classfile/ClassFileWriter.java:1432:	The class 'StackMapTable' has a Cyclomatic Complexity of 5 (Highest = 73).
+src/org/mozilla/classfile/ClassFileWriter.java:1656:	The method 'killSuperBlock' has a Cyclomatic Complexity of 11.
+src/org/mozilla/classfile/ClassFileWriter.java:1719:	Avoid really long methods.
+src/org/mozilla/classfile/ClassFileWriter.java:1719:	The method 'executeBlock' has a Cyclomatic Complexity of 18.
+src/org/mozilla/classfile/ClassFileWriter.java:1719:	The method executeBlock() has an NPath complexity of 1248
+src/org/mozilla/classfile/ClassFileWriter.java:1859:	Avoid really long methods.
+src/org/mozilla/classfile/ClassFileWriter.java:1859:	The method 'execute' has a Cyclomatic Complexity of 73.
+src/org/mozilla/classfile/ClassFileWriter.java:1859:	The method execute() has an NPath complexity of 1542
+src/org/mozilla/classfile/ClassFileWriter.java:2415:	The method 'computeRawStackMap' has a Cyclomatic Complexity of 14.
+src/org/mozilla/classfile/ClassFileWriter.java:2664:	The method 'createInitialLocals' has a Cyclomatic Complexity of 10.
+src/org/mozilla/classfile/ClassFileWriter.java:2851:	Avoid really long methods.
+src/org/mozilla/classfile/ClassFileWriter.java:2851:	The method 'sizeOfParameters' has a Cyclomatic Complexity of 19.
+src/org/mozilla/classfile/ClassFileWriter.java:2851:	The method sizeOfParameters() has an NPath complexity of 829
+src/org/mozilla/classfile/ClassFileWriter.java:2979:	Avoid really long methods.
+src/org/mozilla/classfile/ClassFileWriter.java:2979:	The method 'opcodeLength' has a Cyclomatic Complexity of 10.
+src/org/mozilla/classfile/ClassFileWriter.java:2979:	The method opcodeLength() has an NPath complexity of 210
+src/org/mozilla/classfile/ClassFileWriter.java:3207:	Avoid really long methods.
+src/org/mozilla/classfile/ClassFileWriter.java:3207:	The method opcodeCount() has an NPath complexity of 204
+src/org/mozilla/classfile/ClassFileWriter.java:3427:	Avoid really long methods.
+src/org/mozilla/classfile/ClassFileWriter.java:3427:	The method stackChange() has an NPath complexity of 204
+src/org/mozilla/classfile/ClassFileWriter.java:3880:	Avoid really long methods.
+src/org/mozilla/classfile/ClassFileWriter.java:3880:	The method 'bytecodeStr' has a Cyclomatic Complexity of 207.
+src/org/mozilla/classfile/ClassFileWriter.java:3880:	The method bytecodeStr() has an NPath complexity of 206
+src/org/mozilla/classfile/ClassFileWriter.java:4207:	Avoid empty catch blocks
+src/org/mozilla/classfile/ClassFileWriter.java:4216:	Avoid empty catch blocks
+src/org/mozilla/classfile/ClassFileWriter.java:4953:	The class 'TypeInfo' has a Cyclomatic Complexity of 3 (Highest = 18).
+src/org/mozilla/classfile/ClassFileWriter.java:5046:	The method 'merge' has a Cyclomatic Complexity of 18.
+src/org/mozilla/classfile/ClassFileWriter.java:5111:	The method 'toString' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/Arguments.java:17:	The class 'Arguments' has a Cyclomatic Complexity of 4 (Highest = 16).
+src/org/mozilla/javascript/Arguments.java:178:	The method 'findInstanceIdInfo' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/Arguments.java:178:	The method findInstanceIdInfo() has an NPath complexity of 240
+src/org/mozilla/javascript/Arguments.java:263:	The method 'getIds' has a Cyclomatic Complexity of 16.
+src/org/mozilla/javascript/Arguments.java:263:	The method getIds() has an NPath complexity of 271
+src/org/mozilla/javascript/BaseFunction.java:14:	The class 'BaseFunction' has a Cyclomatic Complexity of 4 (Highest = 15).
+src/org/mozilla/javascript/BaseFunction.java:97:	The method 'findInstanceIdInfo' has a Cyclomatic Complexity of 15.
+src/org/mozilla/javascript/BaseFunction.java:97:	The method findInstanceIdInfo() has an NPath complexity of 336
+src/org/mozilla/javascript/BaseFunction.java:235:	The method 'execIdCall' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/BaseFunction.java:542:	The method 'findPrototypeId' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/CodeGenerator.java:17:	Avoid really long classes.
+src/org/mozilla/javascript/CodeGenerator.java:17:	The class 'CodeGenerator' has a Cyclomatic Complexity of 6 (Highest = 68).
+src/org/mozilla/javascript/CodeGenerator.java:107:	The method 'generateICodeFromTree' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/CodeGenerator.java:107:	The method generateICodeFromTree() has an NPath complexity of 576
+src/org/mozilla/javascript/CodeGenerator.java:229:	Avoid really long methods.
+src/org/mozilla/javascript/CodeGenerator.java:229:	The method 'visitStatement' has a Cyclomatic Complexity of 39.
+src/org/mozilla/javascript/CodeGenerator.java:495:	Avoid really long methods.
+src/org/mozilla/javascript/CodeGenerator.java:495:	The method 'visitExpression' has a Cyclomatic Complexity of 68.
+src/org/mozilla/javascript/CodeGenerator.java:495:	The method visitExpression() has an NPath complexity of 540
+src/org/mozilla/javascript/Context.java:9:	High amount of different objects as members denotes a high coupling
+src/org/mozilla/javascript/Context.java:56:	Avoid really long classes.
+src/org/mozilla/javascript/Context.java:56:	The class 'Context' has a Cyclomatic Complexity of 2 (Highest = 19).
+src/org/mozilla/javascript/Context.java:2308:	The method 'compileImpl' has a Cyclomatic Complexity of 19.
+src/org/mozilla/javascript/Context.java:2308:	The method compileImpl() has an NPath complexity of 46080
+src/org/mozilla/javascript/Context.java:2431:	The method 'getSourcePositionFromStack' has a Cyclomatic Complexity of 17.
+src/org/mozilla/javascript/Context.java:2473:	Avoid empty catch blocks
+src/org/mozilla/javascript/ContextFactory.java:110:	The class 'ContextFactory' has a Cyclomatic Complexity of 2 (Highest = 14).
+src/org/mozilla/javascript/ContextFactory.java:223:	The method 'hasFeature' has a Cyclomatic Complexity of 14.
+src/org/mozilla/javascript/DToA.java:30:	Avoid really long classes.
+src/org/mozilla/javascript/DToA.java:30:	The class 'DToA' has a Cyclomatic Complexity of 17 (Highest = 144).
+src/org/mozilla/javascript/DToA.java:80:	The method 'lo0bits' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/DToA.java:80:	The method lo0bits() has an NPath complexity of 240
+src/org/mozilla/javascript/DToA.java:206:	Avoid really long methods.
+src/org/mozilla/javascript/DToA.java:206:	The method 'JS_dtobasestr' has a Cyclomatic Complexity of 31.
+src/org/mozilla/javascript/DToA.java:206:	The method JS_dtobasestr() has an NPath complexity of 660144
+src/org/mozilla/javascript/DToA.java:443:	Avoid really long methods.
+src/org/mozilla/javascript/DToA.java:443:	The method 'JS_dtoa' has a Cyclomatic Complexity of 144.
+src/org/mozilla/javascript/DToA.java:443:	The method JS_dtoa() has an NPath complexity of 178257920
+src/org/mozilla/javascript/DToA.java:1117:	Avoid empty while statements
+src/org/mozilla/javascript/DToA.java:1131:	The method 'JS_dtostr' has a Cyclomatic Complexity of 29.
+src/org/mozilla/javascript/DToA.java:1131:	The method JS_dtostr() has an NPath complexity of 6748
+src/org/mozilla/javascript/Decompiler.java:44:	The class 'Decompiler' has a Cyclomatic Complexity of 9 (Highest = 134).
+src/org/mozilla/javascript/Decompiler.java:256:	Avoid really long methods.
+src/org/mozilla/javascript/Decompiler.java:256:	The method 'decompile' has a Cyclomatic Complexity of 134.
+src/org/mozilla/javascript/Decompiler.java:256:	The method decompile() has an NPath complexity of 3086336
+src/org/mozilla/javascript/FunctionObject.java:14:	The class 'FunctionObject' has a Cyclomatic Complexity of 6 (Highest = 24).
+src/org/mozilla/javascript/FunctionObject.java:82:	The constructor 'FunctionObject' has a Cyclomatic Complexity of 22.
+src/org/mozilla/javascript/FunctionObject.java:160:	The method 'getTypeTag' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/FunctionObject.java:160:	The method getTypeTag() has an NPath complexity of 216
+src/org/mozilla/javascript/FunctionObject.java:181:	The method 'convertArg' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/FunctionObject.java:369:	Avoid really long methods.
+src/org/mozilla/javascript/FunctionObject.java:369:	The method 'call' has a Cyclomatic Complexity of 24.
+src/org/mozilla/javascript/FunctionObject.java:369:	The method call() has an NPath complexity of 2952
+src/org/mozilla/javascript/IRFactory.java:21:	Avoid really long classes.
+src/org/mozilla/javascript/IRFactory.java:21:	The class 'IRFactory' has a Cyclomatic Complexity of 5 (Highest = 43).
+src/org/mozilla/javascript/IRFactory.java:75:	Avoid really long methods.
+src/org/mozilla/javascript/IRFactory.java:75:	The method 'transform' has a Cyclomatic Complexity of 43.
+src/org/mozilla/javascript/IRFactory.java:75:	The method transform() has an NPath complexity of 2083
+src/org/mozilla/javascript/IRFactory.java:825:	The method 'transformObjectLiteral' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/IRFactory.java:1439:	The method 'createLoop' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/IRFactory.java:1493:	The method 'createForIn' has a Cyclomatic Complexity of 19.
+src/org/mozilla/javascript/IRFactory.java:1493:	The method createForIn() has an NPath complexity of 1485
+src/org/mozilla/javascript/IRFactory.java:1583:	Avoid really long methods.
+src/org/mozilla/javascript/IRFactory.java:1583:	The method 'createTryCatchFinally' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/IRFactory.java:1805:	The method 'createUnary' has a Cyclomatic Complexity of 17.
+src/org/mozilla/javascript/IRFactory.java:1997:	Avoid really long methods.
+src/org/mozilla/javascript/IRFactory.java:1997:	The method 'createBinary' has a Cyclomatic Complexity of 30.
+src/org/mozilla/javascript/IRFactory.java:1998:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/IRFactory.java:2126:	The method 'createAssignment' has a Cyclomatic Complexity of 21.
+src/org/mozilla/javascript/IRFactory.java:2126:	The method createAssignment() has an NPath complexity of 520
+src/org/mozilla/javascript/IRFactory.java:2271:	The method 'decompile' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/Icode.java:12:	The class 'Icode' has a Cyclomatic Complexity of 18 (Highest = 68).
+src/org/mozilla/javascript/Icode.java:141:	The method 'bytecodeName' has a Cyclomatic Complexity of 68.
+src/org/mozilla/javascript/Icode.java:141:	The method bytecodeName() has an NPath complexity of 512
+src/org/mozilla/javascript/IdScriptableObject.java:30:	The class 'IdScriptableObject' has a Cyclomatic Complexity of 3 (Highest = 13).
+src/org/mozilla/javascript/IdScriptableObject.java:35:	The class 'PrototypeValues' has a Cyclomatic Complexity of 4 (Highest = 10).
+src/org/mozilla/javascript/IdScriptableObject.java:215:	The method 'getNames' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/IdScriptableObject.java:350:	The method 'put' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/IdScriptableObject.java:452:	The method 'getIds' has a Cyclomatic Complexity of 13.
+src/org/mozilla/javascript/IdScriptableObject.java:693:	The method 'defineOwnProperty' has a Cyclomatic Complexity of 13.
+src/org/mozilla/javascript/InterfaceAdapter.java:15:	The class 'InterfaceAdapter' has a Cyclomatic Complexity of 6 (Highest = 11).
+src/org/mozilla/javascript/InterfaceAdapter.java:89:	The method 'invokeImpl' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/Interpreter.java:21:	Avoid really long classes.
+src/org/mozilla/javascript/Interpreter.java:21:	The class 'Interpreter' has a Cyclomatic Complexity of 10 (Highest = 242).
+src/org/mozilla/javascript/Interpreter.java:107:	The class 'ContinuationJump' has a Cyclomatic Complexity of 12 (Highest = 11).
+src/org/mozilla/javascript/Interpreter.java:116:	The constructor 'ContinuationJump' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/Interpreter.java:237:	The method 'getExceptionHandler' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/Interpreter.java:280:	Avoid really long methods.
+src/org/mozilla/javascript/Interpreter.java:280:	The method 'dumpICode' has a Cyclomatic Complexity of 34.
+src/org/mozilla/javascript/Interpreter.java:280:	The method dumpICode() has an NPath complexity of 1330
+src/org/mozilla/javascript/Interpreter.java:491:	The method 'bytecodeSpan' has a Cyclomatic Complexity of 17.
+src/org/mozilla/javascript/Interpreter.java:594:	The method 'captureStackInfo' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/Interpreter.java:661:	The method 'getPatchedStack' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/Interpreter.java:878:	Avoid really long methods.
+src/org/mozilla/javascript/Interpreter.java:878:	The method 'interpretLoop' has a Cyclomatic Complexity of 242.
+src/org/mozilla/javascript/Interpreter.java:878:	The method interpretLoop() has an NPath complexity of 916728860
+src/org/mozilla/javascript/Interpreter.java:1926:	A catch statement should never catch throwable since it includes errors.
+src/org/mozilla/javascript/Interpreter.java:1999:	A catch statement should never catch throwable since it includes errors.
+src/org/mozilla/javascript/Interpreter.java:2099:	The method 'doCompare' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/Interpreter.java:2508:	The method 'processThrowable' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/Interpreter.java:2697:	Avoid really long methods.
+src/org/mozilla/javascript/Interpreter.java:2697:	The method 'initFrame' has a Cyclomatic Complexity of 24.
+src/org/mozilla/javascript/Interpreter.java:2697:	The method initFrame() has an NPath complexity of 1166400
+src/org/mozilla/javascript/Interpreter.java:2842:	The method 'enterFrame' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/Interpreter.java:2921:	A catch statement should never catch throwable since it includes errors.
+src/org/mozilla/javascript/Interpreter.java:3047:	The method 'doAdd' has a Cyclomatic Complexity of 15.
+src/org/mozilla/javascript/Interpreter.java:3047:	The method doAdd() has an NPath complexity of 288
+src/org/mozilla/javascript/JavaAdapter.java:15:	Avoid really long classes.
+src/org/mozilla/javascript/JavaAdapter.java:15:	The class 'JavaAdapter' has a Cyclomatic Complexity of 5 (Highest = 21).
+src/org/mozilla/javascript/JavaAdapter.java:21:	The class 'JavaAdapterSignature' has a Cyclomatic Complexity of 4 (Highest = 10).
+src/org/mozilla/javascript/JavaAdapter.java:36:	The method 'equals' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/JavaAdapter.java:119:	Avoid really long methods.
+src/org/mozilla/javascript/JavaAdapter.java:119:	The method 'js_createAdapter' has a Cyclomatic Complexity of 15.
+src/org/mozilla/javascript/JavaAdapter.java:119:	The method js_createAdapter() has an NPath complexity of 1040
+src/org/mozilla/javascript/JavaAdapter.java:246:	Avoid empty catch blocks
+src/org/mozilla/javascript/JavaAdapter.java:247:	Avoid empty catch blocks
+src/org/mozilla/javascript/JavaAdapter.java:286:	Avoid empty catch blocks
+src/org/mozilla/javascript/JavaAdapter.java:287:	Avoid empty catch blocks
+src/org/mozilla/javascript/JavaAdapter.java:288:	Avoid empty catch blocks
+src/org/mozilla/javascript/JavaAdapter.java:289:	Avoid empty catch blocks
+src/org/mozilla/javascript/JavaAdapter.java:341:	Avoid really long methods.
+src/org/mozilla/javascript/JavaAdapter.java:341:	The method 'createAdapterCode' has a Cyclomatic Complexity of 21.
+src/org/mozilla/javascript/JavaAdapter.java:341:	The method createAdapterCode() has an NPath complexity of 36000
+src/org/mozilla/javascript/JavaAdapter.java:396:	Avoid empty catch blocks
+src/org/mozilla/javascript/JavaAdapter.java:863:	The method 'generateReturnResult' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/JavaMembers.java:22:	The class 'JavaMembers' has a Cyclomatic Complexity of 8 (Highest = 46).
+src/org/mozilla/javascript/JavaMembers.java:59:	The method 'get' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/JavaMembers.java:59:	The method get() has an NPath complexity of 720
+src/org/mozilla/javascript/JavaMembers.java:100:	The method 'put' has a Cyclomatic Complexity of 16.
+src/org/mozilla/javascript/JavaMembers.java:100:	The method put() has an NPath complexity of 1920
+src/org/mozilla/javascript/JavaMembers.java:214:	The method 'findExplicitFunction' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/JavaMembers.java:214:	The method findExplicitFunction() has an NPath complexity of 350
+src/org/mozilla/javascript/JavaMembers.java:306:	The method 'discoverAccessibleMethods' has a Cyclomatic Complexity of 21.
+src/org/mozilla/javascript/JavaMembers.java:411:	Avoid really long methods.
+src/org/mozilla/javascript/JavaMembers.java:411:	The method 'reflect' has a Cyclomatic Complexity of 46.
+src/org/mozilla/javascript/JavaMembers.java:656:	The method 'getAccessibleFields' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/JavaMembers.java:681:	Avoid empty catch blocks
+src/org/mozilla/javascript/JavaMembers.java:722:	The method 'extractSetMethod' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/JavaMembers.java:788:	The method 'lookupClass' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/Kit.java:19:	The class 'Kit' has a Cyclomatic Complexity of 5 (Highest = 11).
+src/org/mozilla/javascript/Kit.java:34:	Avoid empty catch blocks
+src/org/mozilla/javascript/Kit.java:43:	Avoid empty catch blocks
+src/org/mozilla/javascript/Kit.java:44:	Avoid empty catch blocks
+src/org/mozilla/javascript/Kit.java:45:	Avoid empty catch blocks
+src/org/mozilla/javascript/Kit.java:46:	Avoid empty catch blocks
+src/org/mozilla/javascript/Kit.java:61:	Avoid empty catch blocks
+src/org/mozilla/javascript/Kit.java:62:	Avoid empty catch blocks
+src/org/mozilla/javascript/Kit.java:63:	Avoid empty catch blocks
+src/org/mozilla/javascript/Kit.java:64:	Avoid empty catch blocks
+src/org/mozilla/javascript/Kit.java:75:	Avoid empty catch blocks
+src/org/mozilla/javascript/Kit.java:76:	Avoid empty catch blocks
+src/org/mozilla/javascript/Kit.java:77:	Avoid empty catch blocks
+src/org/mozilla/javascript/Kit.java:78:	Avoid empty catch blocks
+src/org/mozilla/javascript/Kit.java:112:	Avoid empty catch blocks
+src/org/mozilla/javascript/Kit.java:234:	The method 'removeListener' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/Kit.java:282:	The method 'getListener' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/LazilyLoadedCtor.java:18:	The class 'LazilyLoadedCtor' has a Cyclomatic Complexity of 3 (Highest = 10).
+src/org/mozilla/javascript/LazilyLoadedCtor.java:100:	The method 'buildValue0' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/LazilyLoadedCtor.java:122:	Avoid empty catch blocks
+src/org/mozilla/javascript/LazilyLoadedCtor.java:123:	Avoid empty catch blocks
+src/org/mozilla/javascript/LazilyLoadedCtor.java:124:	Avoid empty catch blocks
+src/org/mozilla/javascript/LazilyLoadedCtor.java:125:	Avoid empty catch blocks
+src/org/mozilla/javascript/MemberBox.java:20:	The class 'MemberBox' has a Cyclomatic Complexity of 3 (Highest = 15).
+src/org/mozilla/javascript/MemberBox.java:171:	The method 'searchAccessibleMethod' has a Cyclomatic Complexity of 15.
+src/org/mozilla/javascript/MemberBox.java:184:	Avoid empty catch blocks
+src/org/mozilla/javascript/MemberBox.java:185:	Avoid empty catch blocks
+src/org/mozilla/javascript/MemberBox.java:200:	Avoid empty catch blocks
+src/org/mozilla/javascript/MemberBox.java:201:	Avoid empty catch blocks
+src/org/mozilla/javascript/NativeArray.java:24:	Avoid really long classes.
+src/org/mozilla/javascript/NativeArray.java:24:	The class 'NativeArray' has a Cyclomatic Complexity of 6 (Highest = 38).
+src/org/mozilla/javascript/NativeArray.java:181:	The method 'initPrototypeId' has a Cyclomatic Complexity of 24.
+src/org/mozilla/javascript/NativeArray.java:215:	Avoid really long methods.
+src/org/mozilla/javascript/NativeArray.java:215:	The method 'execIdCall' has a Cyclomatic Complexity of 26.
+src/org/mozilla/javascript/NativeArray.java:416:	The method 'put' has a Cyclomatic Complexity of 15.
+src/org/mozilla/javascript/NativeArray.java:629:	The method 'setLength' has a Cyclomatic Complexity of 15.
+src/org/mozilla/javascript/NativeArray.java:767:	The method 'toStringHelper' has a Cyclomatic Complexity of 18.
+src/org/mozilla/javascript/NativeArray.java:767:	The method toStringHelper() has an NPath complexity of 864
+src/org/mozilla/javascript/NativeArray.java:866:	The method 'js_join' has a Cyclomatic Complexity of 18.
+src/org/mozilla/javascript/NativeArray.java:866:	The method js_join() has an NPath complexity of 5200
+src/org/mozilla/javascript/NativeArray.java:960:	The method 'js_sort' has a Cyclomatic Complexity of 19.
+src/org/mozilla/javascript/NativeArray.java:1188:	Avoid really long methods.
+src/org/mozilla/javascript/NativeArray.java:1188:	The method 'js_splice' has a Cyclomatic Complexity of 23.
+src/org/mozilla/javascript/NativeArray.java:1188:	The method js_splice() has an NPath complexity of 8960
+src/org/mozilla/javascript/NativeArray.java:1317:	The method 'js_concat' has a Cyclomatic Complexity of 18.
+src/org/mozilla/javascript/NativeArray.java:1317:	The method js_concat() has an NPath complexity of 380
+src/org/mozilla/javascript/NativeArray.java:1456:	The method 'indexOfHelper' has a Cyclomatic Complexity of 27.
+src/org/mozilla/javascript/NativeArray.java:1456:	The method indexOfHelper() has an NPath complexity of 5600
+src/org/mozilla/javascript/NativeArray.java:1555:	The method 'iterativeMethod' has a Cyclomatic Complexity of 21.
+src/org/mozilla/javascript/NativeArray.java:1555:	The method iterativeMethod() has an NPath complexity of 30600
+src/org/mozilla/javascript/NativeArray.java:1622:	The method 'reduceMethod' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/NativeArray.java:1622:	The method reduceMethod() has an NPath complexity of 3150
+src/org/mozilla/javascript/NativeArray.java:1766:	The method 'listIterator' has a Cyclomatic Complexity of 15.
+src/org/mozilla/javascript/NativeArray.java:1872:	The method 'findPrototypeId' has a Cyclomatic Complexity of 38.
+src/org/mozilla/javascript/NativeArray.java:1877:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/NativeBoolean.java:14:	The class 'NativeBoolean' has a Cyclomatic Complexity of 5 (Highest = 12).
+src/org/mozilla/javascript/NativeBoolean.java:62:	The method 'execIdCall' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/NativeBoolean.java:62:	The method execIdCall() has an NPath complexity of 572
+src/org/mozilla/javascript/NativeCall.java:17:	The class 'NativeCall' has a Cyclomatic Complexity of 3 (Highest = 10).
+src/org/mozilla/javascript/NativeCall.java:31:	The constructor 'NativeCall' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/NativeDate.java:21:	Avoid really long classes.
+src/org/mozilla/javascript/NativeDate.java:21:	The class 'NativeDate' has a Cyclomatic Complexity of 10 (Highest = 96).
+src/org/mozilla/javascript/NativeDate.java:86:	The method 'initPrototypeId' has a Cyclomatic Complexity of 48.
+src/org/mozilla/javascript/NativeDate.java:144:	Avoid really long methods.
+src/org/mozilla/javascript/NativeDate.java:144:	The method 'execIdCall' has a Cyclomatic Complexity of 64.
+src/org/mozilla/javascript/NativeDate.java:144:	The method execIdCall() has an NPath complexity of 22356
+src/org/mozilla/javascript/NativeDate.java:494:	The method 'MonthFromTime' has a Cyclomatic Complexity of 17.
+src/org/mozilla/javascript/NativeDate.java:494:	The method MonthFromTime() has an NPath complexity of 1080
+src/org/mozilla/javascript/NativeDate.java:531:	The method 'DateFromTime' has a Cyclomatic Complexity of 17.
+src/org/mozilla/javascript/NativeDate.java:531:	The method DateFromTime() has an NPath complexity of 432
+src/org/mozilla/javascript/NativeDate.java:612:	The method 'EquivalentYear' has a Cyclomatic Complexity of 17.
+src/org/mozilla/javascript/NativeDate.java:786:	Avoid really long methods.
+src/org/mozilla/javascript/NativeDate.java:786:	The method 'date_parseString' has a Cyclomatic Complexity of 96.
+src/org/mozilla/javascript/NativeDate.java:786:	The method date_parseString() has an NPath complexity of 13354176
+src/org/mozilla/javascript/NativeDate.java:796:	Avoid empty catch blocks
+src/org/mozilla/javascript/NativeDate.java:1222:	Avoid really long methods.
+src/org/mozilla/javascript/NativeDate.java:1222:	The method 'makeTime' has a Cyclomatic Complexity of 24.
+src/org/mozilla/javascript/NativeDate.java:1222:	The method makeTime() has an NPath complexity of 46656
+src/org/mozilla/javascript/NativeDate.java:1331:	The method 'makeDate' has a Cyclomatic Complexity of 21.
+src/org/mozilla/javascript/NativeDate.java:1331:	The method makeDate() has an NPath complexity of 12096
+src/org/mozilla/javascript/NativeDate.java:1429:	Avoid really long methods.
+src/org/mozilla/javascript/NativeDate.java:1429:	The method 'findPrototypeId' has a Cyclomatic Complexity of 77.
+src/org/mozilla/javascript/NativeDate.java:1429:	The method findPrototypeId() has an NPath complexity of 280
+src/org/mozilla/javascript/NativeDate.java:1434:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/NativeError.java:16:	The class 'NativeError' has a Cyclomatic Complexity of 4 (Highest = 11).
+src/org/mozilla/javascript/NativeError.java:160:	The method 'js_toSource' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/NativeGenerator.java:15:	The class 'NativeGenerator' has a Cyclomatic Complexity of 6 (Highest = 12).
+src/org/mozilla/javascript/NativeGenerator.java:112:	The method 'execIdCall' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/NativeGenerator.java:205:	The method 'findPrototypeId' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/NativeGlobal.java:25:	The class 'NativeGlobal' has a Cyclomatic Complexity of 11 (Highest = 30).
+src/org/mozilla/javascript/NativeGlobal.java:29:	Avoid really long methods.
+src/org/mozilla/javascript/NativeGlobal.java:29:	The method 'init' has a Cyclomatic Complexity of 18.
+src/org/mozilla/javascript/NativeGlobal.java:135:	The method 'execIdCall' has a Cyclomatic Complexity of 18.
+src/org/mozilla/javascript/NativeGlobal.java:219:	The method 'js_parseInt' has a Cyclomatic Complexity of 22.
+src/org/mozilla/javascript/NativeGlobal.java:219:	The method js_parseInt() has an NPath complexity of 6480
+src/org/mozilla/javascript/NativeGlobal.java:274:	The method 'js_parseFloat' has a Cyclomatic Complexity of 26.
+src/org/mozilla/javascript/NativeGlobal.java:274:	The method js_parseFloat() has an NPath complexity of 27600
+src/org/mozilla/javascript/NativeGlobal.java:383:	The method 'js_escape' has a Cyclomatic Complexity of 29.
+src/org/mozilla/javascript/NativeGlobal.java:383:	The method js_escape() has an NPath complexity of 1625
+src/org/mozilla/javascript/NativeGlobal.java:548:	The method 'encode' has a Cyclomatic Complexity of 14.
+src/org/mozilla/javascript/NativeGlobal.java:548:	The method encode() has an NPath complexity of 495
+src/org/mozilla/javascript/NativeGlobal.java:620:	The method 'decode' has a Cyclomatic Complexity of 30.
+src/org/mozilla/javascript/NativeGlobal.java:620:	The method decode() has an NPath complexity of 282415
+src/org/mozilla/javascript/NativeIterator.java:136:	The method jsConstructor() has an NPath complexity of 200
+src/org/mozilla/javascript/NativeJSON.java:23:	The class 'NativeJSON' has a Cyclomatic Complexity of 6 (Highest = 19).
+src/org/mozilla/javascript/NativeJSON.java:68:	The method 'execIdCall' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/NativeJSON.java:125:	The method 'walk' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/NativeJSON.java:201:	The method 'stringify' has a Cyclomatic Complexity of 14.
+src/org/mozilla/javascript/NativeJSON.java:257:	The method 'str' has a Cyclomatic Complexity of 19.
+src/org/mozilla/javascript/NativeJSON.java:257:	The method str() has an NPath complexity of 15360
+src/org/mozilla/javascript/NativeJSON.java:419:	The method 'quote' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/NativeJavaClass.java:28:	The class 'NativeJavaClass' has a Cyclomatic Complexity of 3 (Highest = 11).
+src/org/mozilla/javascript/NativeJavaClass.java:150:	The method 'construct' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/NativeJavaClass.java:212:	The method 'constructInternal' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/NativeJavaMethod.java:23:	The class 'NativeJavaMethod' has a Cyclomatic Complexity of 9 (Highest = 44).
+src/org/mozilla/javascript/NativeJavaMethod.java:56:	The method 'scriptSignature' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/NativeJavaMethod.java:131:	Avoid really long methods.
+src/org/mozilla/javascript/NativeJavaMethod.java:131:	The method 'call' has a Cyclomatic Complexity of 25.
+src/org/mozilla/javascript/NativeJavaMethod.java:131:	The method call() has an NPath complexity of 110592
+src/org/mozilla/javascript/NativeJavaMethod.java:283:	Avoid really long methods.
+src/org/mozilla/javascript/NativeJavaMethod.java:283:	The method 'findFunction' has a Cyclomatic Complexity of 44.
+src/org/mozilla/javascript/NativeJavaMethod.java:283:	The method findFunction() has an NPath complexity of 3231972
+src/org/mozilla/javascript/NativeJavaMethod.java:486:	The method 'preferSignature' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/NativeJavaMethod.java:486:	The method preferSignature() has an NPath complexity of 601
+src/org/mozilla/javascript/NativeJavaObject.java:25:	The class 'NativeJavaObject' has a Cyclomatic Complexity of 7 (Highest = 55).
+src/org/mozilla/javascript/NativeJavaObject.java:161:	The method 'getDefaultValue' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/NativeJavaObject.java:233:	Avoid really long methods.
+src/org/mozilla/javascript/NativeJavaObject.java:233:	The method 'getConversionWeight' has a Cyclomatic Complexity of 49.
+src/org/mozilla/javascript/NativeJavaObject.java:236:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/NativeJavaObject.java:409:	The method 'getJSTypeCode' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/NativeJavaObject.java:468:	Avoid really long methods.
+src/org/mozilla/javascript/NativeJavaObject.java:468:	The method 'coerceTypeImpl' has a Cyclomatic Complexity of 55.
+src/org/mozilla/javascript/NativeJavaObject.java:474:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/NativeJavaObject.java:673:	Avoid really long methods.
+src/org/mozilla/javascript/NativeJavaObject.java:673:	The method 'coerceToNumber' has a Cyclomatic Complexity of 30.
+src/org/mozilla/javascript/NativeJavaObject.java:673:	The method coerceToNumber() has an NPath complexity of 139264
+src/org/mozilla/javascript/NativeJavaObject.java:784:	The method 'toDouble' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/NativeJavaPackage.java:27:	The class 'NativeJavaPackage' has a Cyclomatic Complexity of 2 (Highest = 13).
+src/org/mozilla/javascript/NativeJavaPackage.java:108:	The method 'getPkgProperty' has a Cyclomatic Complexity of 13.
+src/org/mozilla/javascript/NativeJavaPackage.java:108:	The method getPkgProperty() has an NPath complexity of 1440
+src/org/mozilla/javascript/NativeMath.java:15:	The class 'NativeMath' has a Cyclomatic Complexity of 23 (Highest = 57).
+src/org/mozilla/javascript/NativeMath.java:40:	The method 'initPrototypeId' has a Cyclomatic Complexity of 29.
+src/org/mozilla/javascript/NativeMath.java:88:	Avoid really long methods.
+src/org/mozilla/javascript/NativeMath.java:88:	The method 'execIdCall' has a Cyclomatic Complexity of 40.
+src/org/mozilla/javascript/NativeMath.java:227:	The method 'js_pow' has a Cyclomatic Complexity of 28.
+src/org/mozilla/javascript/NativeMath.java:284:	The method 'findPrototypeId' has a Cyclomatic Complexity of 57.
+src/org/mozilla/javascript/NativeMath.java:284:	The method findPrototypeId() has an NPath complexity of 200
+src/org/mozilla/javascript/NativeMath.java:289:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/NativeNumber.java:16:	The class 'NativeNumber' has a Cyclomatic Complexity of 6 (Highest = 21).
+src/org/mozilla/javascript/NativeNumber.java:85:	The method 'execIdCall' has a Cyclomatic Complexity of 21.
+src/org/mozilla/javascript/NativeNumber.java:85:	The method execIdCall() has an NPath complexity of 1496
+src/org/mozilla/javascript/NativeNumber.java:205:	The method 'findPrototypeId' has a Cyclomatic Complexity of 15.
+src/org/mozilla/javascript/NativeObject.java:22:	The class 'NativeObject' has a Cyclomatic Complexity of 9 (Highest = 95).
+src/org/mozilla/javascript/NativeObject.java:79:	The method 'initPrototypeId' has a Cyclomatic Complexity of 13.
+src/org/mozilla/javascript/NativeObject.java:107:	Avoid really long methods.
+src/org/mozilla/javascript/NativeObject.java:107:	The method 'execIdCall' has a Cyclomatic Complexity of 95.
+src/org/mozilla/javascript/NativeObject.java:107:	The method execIdCall() has an NPath complexity of 1958
+src/org/mozilla/javascript/NativeObject.java:480:	The class 'EntrySet' has a Cyclomatic Complexity of 9 (Highest = 16).
+src/org/mozilla/javascript/NativeObject.java:482:	The method 'iterator' has a Cyclomatic Complexity of 16.
+src/org/mozilla/javascript/NativeObject.java:482:	The method iterator() has an NPath complexity of 2603
+src/org/mozilla/javascript/NativeObject.java:492:	The method 'next' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/NativeObject.java:492:	The method next() has an NPath complexity of 1301
+src/org/mozilla/javascript/NativeObject.java:624:	The method 'findPrototypeId' has a Cyclomatic Complexity of 21.
+src/org/mozilla/javascript/NativeString.java:23:	The class 'NativeString' has a Cyclomatic Complexity of 9 (Highest = 56).
+src/org/mozilla/javascript/NativeString.java:122:	The method 'initPrototypeId' has a Cyclomatic Complexity of 38.
+src/org/mozilla/javascript/NativeString.java:170:	Avoid really long methods.
+src/org/mozilla/javascript/NativeString.java:170:	The method 'execIdCall' has a Cyclomatic Complexity of 56.
+src/org/mozilla/javascript/NativeString.java:170:	The method execIdCall() has an NPath complexity of 270
+src/org/mozilla/javascript/NativeString.java:603:	The method 'js_slice' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/NativeString.java:638:	The method 'findPrototypeId' has a Cyclomatic Complexity of 56.
+src/org/mozilla/javascript/NativeString.java:643:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/Node.java:26:	Avoid really long classes.
+src/org/mozilla/javascript/Node.java:26:	The class 'Node' has a Cyclomatic Complexity of 3 (Highest = 36).
+src/org/mozilla/javascript/Node.java:398:	The method 'propToString' has a Cyclomatic Complexity of 25.
+src/org/mozilla/javascript/Node.java:855:	The method 'endCheck' has a Cyclomatic Complexity of 17.
+src/org/mozilla/javascript/Node.java:917:	The method 'hasSideEffects' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/Node.java:1055:	Avoid really long methods.
+src/org/mozilla/javascript/Node.java:1055:	The method 'toString' has a Cyclomatic Complexity of 36.
+src/org/mozilla/javascript/Node.java:1055:	The method toString() has an NPath complexity of 751
+src/org/mozilla/javascript/NodeTransformer.java:25:	The class 'NodeTransformer' has a Cyclomatic Complexity of 13 (Highest = 77).
+src/org/mozilla/javascript/NodeTransformer.java:62:	Avoid really long methods.
+src/org/mozilla/javascript/NodeTransformer.java:62:	The method 'transformCompilationUnit_r' has a Cyclomatic Complexity of 77.
+src/org/mozilla/javascript/NodeTransformer.java:62:	The method transformCompilationUnit_r() has an NPath complexity of 110401
+src/org/mozilla/javascript/NodeTransformer.java:411:	Avoid really long methods.
+src/org/mozilla/javascript/NodeTransformer.java:411:	The method 'visitLet' has a Cyclomatic Complexity of 21.
+src/org/mozilla/javascript/NodeTransformer.java:411:	The method visitLet() has an NPath complexity of 685
+src/org/mozilla/javascript/ObjArray.java:18:	The class 'ObjArray' has a Cyclomatic Complexity of 4 (Highest = 15).
+src/org/mozilla/javascript/ObjArray.java:167:	The method 'add' has a Cyclomatic Complexity of 15.
+src/org/mozilla/javascript/ObjArray.java:203:	The method 'remove' has a Cyclomatic Complexity of 15.
+src/org/mozilla/javascript/ObjToIntMap.java:24:	The class 'ObjToIntMap' has a Cyclomatic Complexity of 5 (Highest = 22).
+src/org/mozilla/javascript/ObjToIntMap.java:229:	The method 'findIndex' has a Cyclomatic Complexity of 13.
+src/org/mozilla/javascript/ObjToIntMap.java:269:	The method 'insertNewKey' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/ObjToIntMap.java:293:	The method 'rehashTable' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/ObjToIntMap.java:329:	The method 'ensureIndex' has a Cyclomatic Complexity of 22.
+src/org/mozilla/javascript/ObjToIntMap.java:329:	The method ensureIndex() has an NPath complexity of 9376
+src/org/mozilla/javascript/Parser.java:7:	High amount of different objects as members denotes a high coupling
+src/org/mozilla/javascript/Parser.java:41:	Avoid really long classes.
+src/org/mozilla/javascript/Parser.java:41:	The class 'Parser' has a Cyclomatic Complexity of 5 (Highest = 27).
+src/org/mozilla/javascript/Parser.java:508:	The method 'parse' has a Cyclomatic Complexity of 15.
+src/org/mozilla/javascript/Parser.java:508:	The method parse() has an NPath complexity of 216
+src/org/mozilla/javascript/Parser.java:591:	The method 'parseFunctionBody' has a Cyclomatic Complexity of 13.
+src/org/mozilla/javascript/Parser.java:648:	Avoid empty catch blocks
+src/org/mozilla/javascript/Parser.java:673:	The method 'parseFunctionParams' has a Cyclomatic Complexity of 14.
+src/org/mozilla/javascript/Parser.java:737:	Avoid really long methods.
+src/org/mozilla/javascript/Parser.java:737:	The method 'function' has a Cyclomatic Complexity of 21.
+src/org/mozilla/javascript/Parser.java:737:	The method function() has an NPath complexity of 134400
+src/org/mozilla/javascript/Parser.java:913:	Avoid empty catch blocks
+src/org/mozilla/javascript/Parser.java:935:	Avoid really long methods.
+src/org/mozilla/javascript/Parser.java:935:	The method 'statementHelper' has a Cyclomatic Complexity of 27.
+src/org/mozilla/javascript/Parser.java:1098:	The method 'switchStatement' has a Cyclomatic Complexity of 13.
+src/org/mozilla/javascript/Parser.java:1098:	The method switchStatement() has an NPath complexity of 212
+src/org/mozilla/javascript/Parser.java:1224:	Avoid really long methods.
+src/org/mozilla/javascript/Parser.java:1224:	The method 'forLoop' has a Cyclomatic Complexity of 13.
+src/org/mozilla/javascript/Parser.java:1224:	The method forLoop() has an NPath complexity of 964
+src/org/mozilla/javascript/Parser.java:1351:	The method 'tryStatement' has a Cyclomatic Complexity of 19.
+src/org/mozilla/javascript/Parser.java:1351:	The method tryStatement() has an NPath complexity of 16480
+src/org/mozilla/javascript/Parser.java:1491:	The method 'breakStatement' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/Parser.java:1491:	The method breakStatement() has an NPath complexity of 240
+src/org/mozilla/javascript/Parser.java:1527:	The method 'continueStatement' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/Parser.java:1619:	The method 'returnOrYield' has a Cyclomatic Complexity of 13.
+src/org/mozilla/javascript/Parser.java:1619:	The method returnOrYield() has an NPath complexity of 3780
+src/org/mozilla/javascript/Parser.java:1757:	The method nameOrLabel() has an NPath complexity of 240
+src/org/mozilla/javascript/Parser.java:1822:	The method 'variables' has a Cyclomatic Complexity of 14.
+src/org/mozilla/javascript/Parser.java:1822:	The method variables() has an NPath complexity of 226
+src/org/mozilla/javascript/Parser.java:1945:	The method 'defineSymbol' has a Cyclomatic Complexity of 24.
+src/org/mozilla/javascript/Parser.java:1945:	The method defineSymbol() has an NPath complexity of 21450
+src/org/mozilla/javascript/Parser.java:2245:	The method 'unaryExpr' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/Parser.java:2378:	Avoid empty catch blocks
+src/org/mozilla/javascript/Parser.java:2453:	The method 'memberExprTail' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/Parser.java:2544:	The method 'propertyAccess' has a Cyclomatic Complexity of 16.
+src/org/mozilla/javascript/Parser.java:2544:	The method propertyAccess() has an NPath complexity of 2100
+src/org/mozilla/javascript/Parser.java:2753:	The method 'primaryExpr' has a Cyclomatic Complexity of 17.
+src/org/mozilla/javascript/Parser.java:2885:	The method 'arrayLiteral' has a Cyclomatic Complexity of 14.
+src/org/mozilla/javascript/Parser.java:2976:	The method 'arrayComprehensionLoop' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/Parser.java:2976:	The method arrayComprehensionLoop() has an NPath complexity of 386
+src/org/mozilla/javascript/Parser.java:3132:	Avoid really long methods.
+src/org/mozilla/javascript/Parser.java:3132:	The method 'objectLiteral' has a Cyclomatic Complexity of 24.
+src/org/mozilla/javascript/Parser.java:3132:	The method objectLiteral() has an NPath complexity of 1300
+src/org/mozilla/javascript/RhinoException.java:23:	The class 'RhinoException' has a Cyclomatic Complexity of 3 (Highest = 14).
+src/org/mozilla/javascript/RhinoException.java:241:	The method 'getScriptStack' has a Cyclomatic Complexity of 14.
+src/org/mozilla/javascript/ScriptRuntime.java:26:	Avoid really long classes.
+src/org/mozilla/javascript/ScriptRuntime.java:26:	The class 'ScriptRuntime' has a Cyclomatic Complexity of 4 (Highest = 41).
+src/org/mozilla/javascript/ScriptRuntime.java:313:	The method 'toBoolean' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/ScriptRuntime.java:313:	The method toBoolean() has an NPath complexity of 313
+src/org/mozilla/javascript/ScriptRuntime.java:352:	The method 'toNumber' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/ScriptRuntime.java:352:	The method toNumber() has an NPath complexity of 577
+src/org/mozilla/javascript/ScriptRuntime.java:398:	Avoid really long methods.
+src/org/mozilla/javascript/ScriptRuntime.java:398:	The method 'stringToNumber' has a Cyclomatic Complexity of 41.
+src/org/mozilla/javascript/ScriptRuntime.java:398:	The method stringToNumber() has an NPath complexity of 50240
+src/org/mozilla/javascript/ScriptRuntime.java:553:	The method 'toNumber' has a Cyclomatic Complexity of 31.
+src/org/mozilla/javascript/ScriptRuntime.java:553:	The method toNumber() has an NPath complexity of 59400
+src/org/mozilla/javascript/ScriptRuntime.java:653:	The method 'escapeString' has a Cyclomatic Complexity of 24.
+src/org/mozilla/javascript/ScriptRuntime.java:653:	The method escapeString() has an NPath complexity of 20175
+src/org/mozilla/javascript/ScriptRuntime.java:819:	The method 'uneval' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/ScriptRuntime.java:819:	The method uneval() has an NPath complexity of 256
+src/org/mozilla/javascript/ScriptRuntime.java:862:	The method 'defaultObjectToSource' has a Cyclomatic Complexity of 13.
+src/org/mozilla/javascript/ScriptRuntime.java:1271:	The method 'indexFromString' has a Cyclomatic Complexity of 19.
+src/org/mozilla/javascript/ScriptRuntime.java:1328:	The method 'testUint32String' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/ScriptRuntime.java:1736:	The method 'nameOrFunction' has a Cyclomatic Complexity of 17.
+src/org/mozilla/javascript/ScriptRuntime.java:1841:	The method 'bind' has a Cyclomatic Complexity of 13.
+src/org/mozilla/javascript/ScriptRuntime.java:1841:	The method bind() has an NPath complexity of 264
+src/org/mozilla/javascript/ScriptRuntime.java:2049:	The method 'enumNext' has a Cyclomatic Complexity of 14.
+src/org/mozilla/javascript/ScriptRuntime.java:2049:	The method enumNext() has an NPath complexity of 1015
+src/org/mozilla/javascript/ScriptRuntime.java:2514:	The method typeof() has an NPath complexity of 384
+src/org/mozilla/javascript/ScriptRuntime.java:2557:	The method 'add' has a Cyclomatic Complexity of 13.
+src/org/mozilla/javascript/ScriptRuntime.java:2557:	The method add() has an NPath complexity of 540
+src/org/mozilla/javascript/ScriptRuntime.java:2769:	The method 'eq' has a Cyclomatic Complexity of 29.
+src/org/mozilla/javascript/ScriptRuntime.java:2853:	The method 'eqNumber' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/ScriptRuntime.java:2880:	The method 'eqString' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/ScriptRuntime.java:2907:	The method 'shallowEq' has a Cyclomatic Complexity of 14.
+src/org/mozilla/javascript/ScriptRuntime.java:3057:	Avoid empty catch blocks
+src/org/mozilla/javascript/ScriptRuntime.java:3218:	Avoid really long methods.
+src/org/mozilla/javascript/ScriptRuntime.java:3218:	The method 'newCatchScope' has a Cyclomatic Complexity of 16.
+src/org/mozilla/javascript/ScriptRuntime.java:3218:	The method newCatchScope() has an NPath complexity of 2884
+src/org/mozilla/javascript/ScriptRuntime.java:3441:	The method 'newArrayLiteral' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/ScriptableObject.java:47:	Avoid really long classes.
+src/org/mozilla/javascript/ScriptableObject.java:47:	The class 'ScriptableObject' has a Cyclomatic Complexity of 4 (Highest = 65).
+src/org/mozilla/javascript/ScriptableObject.java:898:	The method 'getDefaultValue' has a Cyclomatic Complexity of 31.
+src/org/mozilla/javascript/ScriptableObject.java:898:	The method getDefaultValue() has an NPath complexity of 19005
+src/org/mozilla/javascript/ScriptableObject.java:1204:	Avoid really long methods.
+src/org/mozilla/javascript/ScriptableObject.java:1204:	The method 'buildClassCtor' has a Cyclomatic Complexity of 65.
+src/org/mozilla/javascript/ScriptableObject.java:1474:	The method 'getPropertyName' has a Cyclomatic Complexity of 14.
+src/org/mozilla/javascript/ScriptableObject.java:1650:	The method 'defineProperty' has a Cyclomatic Complexity of 20.
+src/org/mozilla/javascript/ScriptableObject.java:1650:	The method defineProperty() has an NPath complexity of 1653
+src/org/mozilla/javascript/ScriptableObject.java:1783:	The method 'defineOwnProperty' has a Cyclomatic Complexity of 13.
+src/org/mozilla/javascript/ScriptableObject.java:1783:	The method defineOwnProperty() has an NPath complexity of 612
+src/org/mozilla/javascript/ScriptableObject.java:1857:	The method 'checkPropertyChange' has a Cyclomatic Complexity of 18.
+src/org/mozilla/javascript/ScriptableObject.java:1940:	The method applyDescriptorToAttributeBitset() has an NPath complexity of 216
+src/org/mozilla/javascript/ScriptableObject.java:2446:	The method 'getPropertyIds' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/ScriptableObject.java:2711:	The method 'getSlot' has a Cyclomatic Complexity of 17.
+src/org/mozilla/javascript/ScriptableObject.java:2711:	The method getSlot() has an NPath complexity of 735
+src/org/mozilla/javascript/ScriptableObject.java:2759:	The method 'createSlot' has a Cyclomatic Complexity of 21.
+src/org/mozilla/javascript/ScriptableObject.java:2759:	The method createSlot() has an NPath complexity of 12040
+src/org/mozilla/javascript/ScriptableObject.java:2853:	The method 'removeSlot' has a Cyclomatic Complexity of 14.
+src/org/mozilla/javascript/ScriptableObject.java:2853:	The method removeSlot() has an NPath complexity of 425
+src/org/mozilla/javascript/ScriptableObject.java:2957:	The method 'getIds' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/ScriptableObject.java:2957:	The method getIds() has an NPath complexity of 444
+src/org/mozilla/javascript/Token.java:21:	The class 'Token' has a Cyclomatic Complexity of 50 (Highest = 163).
+src/org/mozilla/javascript/Token.java:252:	Avoid really long methods.
+src/org/mozilla/javascript/Token.java:252:	The method 'typeToName' has a Cyclomatic Complexity of 163.
+src/org/mozilla/javascript/Token.java:428:	The method 'keywordToName' has a Cyclomatic Complexity of 33.
+src/org/mozilla/javascript/TokenStream.java:23:	Avoid really long classes.
+src/org/mozilla/javascript/TokenStream.java:23:	The class 'TokenStream' has a Cyclomatic Complexity of 9 (Highest = 150).
+src/org/mozilla/javascript/TokenStream.java:82:	Avoid really long methods.
+src/org/mozilla/javascript/TokenStream.java:82:	The method 'stringToKeyword' has a Cyclomatic Complexity of 109.
+src/org/mozilla/javascript/TokenStream.java:82:	The method stringToKeyword() has an NPath complexity of 784
+src/org/mozilla/javascript/TokenStream.java:155:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/TokenStream.java:273:	Avoid really long methods.
+src/org/mozilla/javascript/TokenStream.java:273:	The method 'getToken' has a Cyclomatic Complexity of 150.
+src/org/mozilla/javascript/TokenStream.java:872:	The method 'readRegExp' has a Cyclomatic Complexity of 16.
+src/org/mozilla/javascript/TokenStream.java:872:	The method readRegExp() has an NPath complexity of 504
+src/org/mozilla/javascript/TokenStream.java:951:	Avoid really long methods.
+src/org/mozilla/javascript/TokenStream.java:951:	The method 'getNextXMLToken' has a Cyclomatic Complexity of 32.
+src/org/mozilla/javascript/TokenStream.java:1003:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/TokenStream.java:1007:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/TokenStream.java:1012:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/TokenStream.java:1273:	The method 'getChar' has a Cyclomatic Complexity of 17.
+src/org/mozilla/javascript/TokenStream.java:1273:	The method getChar() has an NPath complexity of 602
+src/org/mozilla/javascript/TokenStream.java:1329:	The method 'getCharIgnoreLineEnd' has a Cyclomatic Complexity of 13.
+src/org/mozilla/javascript/TokenStream.java:1385:	Avoid empty while statements
+src/org/mozilla/javascript/TokenStream.java:1400:	The method 'getLine' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/UintMap.java:24:	The class 'UintMap' has a Cyclomatic Complexity of 6 (Highest = 17).
+src/org/mozilla/javascript/UintMap.java:224:	The method 'insertNewKey' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/UintMap.java:246:	The method 'rehashTable' has a Cyclomatic Complexity of 13.
+src/org/mozilla/javascript/UintMap.java:246:	The method rehashTable() has an NPath complexity of 288
+src/org/mozilla/javascript/UintMap.java:289:	The method 'ensureIndex' has a Cyclomatic Complexity of 17.
+src/org/mozilla/javascript/UintMap.java:289:	The method ensureIndex() has an NPath complexity of 1264
+src/org/mozilla/javascript/WrapFactory.java:23:	The class 'WrapFactory' has a Cyclomatic Complexity of 4 (Highest = 14).
+src/org/mozilla/javascript/WrapFactory.java:44:	The method 'wrap' has a Cyclomatic Complexity of 14.
+src/org/mozilla/javascript/WrapFactory.java:44:	The method wrap() has an NPath complexity of 288
+src/org/mozilla/javascript/commonjs/module/Require.java:41:	The class 'Require' has a Cyclomatic Complexity of 4 (Highest = 12).
+src/org/mozilla/javascript/commonjs/module/Require.java:116:	The method 'requireMain' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/commonjs/module/Require.java:146:	Avoid empty catch blocks
+src/org/mozilla/javascript/commonjs/module/Require.java:226:	The method 'getExportedModuleInterface' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/commonjs/module/Require.java:226:	The method getExportedModuleInterface() has an NPath complexity of 540
+src/org/mozilla/javascript/commonjs/module/provider/UrlModuleSourceProvider.java:34:	The class 'UrlModuleSourceProvider' has a Cyclomatic Complexity of 2 (Highest = 10).
+src/org/mozilla/javascript/commonjs/module/provider/UrlModuleSourceProvider.java:134:	The method 'loadFromActualUri' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/commonjs/module/provider/UrlModuleSourceProvider.java:134:	The method loadFromActualUri() has an NPath complexity of 360
+src/org/mozilla/javascript/jdk13/VMBridge_jdk13.java:75:	Avoid empty catch blocks
+src/org/mozilla/javascript/json/JsonParser.java:23:	The class 'JsonParser' has a Cyclomatic Complexity of 7 (Highest = 17).
+src/org/mozilla/javascript/json/JsonParser.java:159:	The method 'readString' has a Cyclomatic Complexity of 17.
+src/org/mozilla/javascript/json/JsonParser.java:166:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/json/JsonParser.java:222:	The method 'readNumber' has a Cyclomatic Complexity of 15.
+src/org/mozilla/javascript/optimizer/Block.java:17:	The class 'Block' has a Cyclomatic Complexity of 6 (Highest = 16).
+src/org/mozilla/javascript/optimizer/Block.java:104:	The method 'buildBlocks' has a Cyclomatic Complexity of 16.
+src/org/mozilla/javascript/optimizer/Block.java:104:	The method buildBlocks() has an NPath complexity of 624
+src/org/mozilla/javascript/optimizer/Block.java:238:	The method 'reachingDefDataFlow' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/optimizer/Block.java:355:	The method 'lookForVariableAccess' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/optimizer/Block.java:458:	Avoid really long methods.
+src/org/mozilla/javascript/optimizer/Block.java:458:	The method 'findExpressionType' has a Cyclomatic Complexity of 14.
+src/org/mozilla/javascript/optimizer/Codegen.java:33:	Avoid really long classes.
+src/org/mozilla/javascript/optimizer/Codegen.java:33:	The class 'Codegen' has a Cyclomatic Complexity of 4 (Highest = 31).
+src/org/mozilla/javascript/optimizer/Codegen.java:468:	Avoid really long methods.
+src/org/mozilla/javascript/optimizer/Codegen.java:734:	Avoid really long methods.
+src/org/mozilla/javascript/optimizer/Codegen.java:734:	The method 'generateNativeFunctionOverrides' has a Cyclomatic Complexity of 31.
+src/org/mozilla/javascript/optimizer/Codegen.java:734:	The method generateNativeFunctionOverrides() has an NPath complexity of 2563
+src/org/mozilla/javascript/optimizer/Codegen.java:1053:	The method 'pushNumberAsObject' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/optimizer/Codegen.java:1254:	Avoid really long classes.
+src/org/mozilla/javascript/optimizer/Codegen.java:1254:	The class 'BodyCodegen' has a Cyclomatic Complexity of 7 (Highest = 88).
+src/org/mozilla/javascript/optimizer/Codegen.java:1437:	Avoid really long methods.
+src/org/mozilla/javascript/optimizer/Codegen.java:1437:	The method 'generatePrologue' has a Cyclomatic Complexity of 34.
+src/org/mozilla/javascript/optimizer/Codegen.java:1437:	The method generatePrologue() has an NPath complexity of 43392960
+src/org/mozilla/javascript/optimizer/Codegen.java:1719:	Avoid really long methods.
+src/org/mozilla/javascript/optimizer/Codegen.java:1719:	The method 'generateEpilogue' has a Cyclomatic Complexity of 16.
+src/org/mozilla/javascript/optimizer/Codegen.java:1719:	The method generateEpilogue() has an NPath complexity of 520
+src/org/mozilla/javascript/optimizer/Codegen.java:1839:	Avoid really long methods.
+src/org/mozilla/javascript/optimizer/Codegen.java:1839:	The method 'generateStatement' has a Cyclomatic Complexity of 49.
+src/org/mozilla/javascript/optimizer/Codegen.java:2159:	Avoid really long methods.
+src/org/mozilla/javascript/optimizer/Codegen.java:2159:	The method 'generateExpression' has a Cyclomatic Complexity of 88.
+src/org/mozilla/javascript/optimizer/Codegen.java:3051:	The method 'visitArrayLiteral' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/optimizer/Codegen.java:3108:	The method 'visitObjectLiteral' has a Cyclomatic Complexity of 20.
+src/org/mozilla/javascript/optimizer/Codegen.java:3108:	The method visitObjectLiteral() has an NPath complexity of 1920
+src/org/mozilla/javascript/optimizer/Codegen.java:3262:	Avoid really long methods.
+src/org/mozilla/javascript/optimizer/Codegen.java:3262:	The method 'visitStandardCall' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/optimizer/Codegen.java:3386:	Avoid really long methods.
+src/org/mozilla/javascript/optimizer/Codegen.java:3386:	The method visitOptimizedCall() has an NPath complexity of 320
+src/org/mozilla/javascript/optimizer/Codegen.java:3501:	The method 'generateCallArgArray' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/optimizer/Codegen.java:3644:	Avoid really long methods.
+src/org/mozilla/javascript/optimizer/Codegen.java:3644:	The method 'visitTryCatchFinally' has a Cyclomatic Complexity of 19.
+src/org/mozilla/javascript/optimizer/Codegen.java:3644:	The method visitTryCatchFinally() has an NPath complexity of 13056
+src/org/mozilla/javascript/optimizer/Codegen.java:4308:	Avoid really long methods.
+src/org/mozilla/javascript/optimizer/Codegen.java:4308:	The method 'visitIncDec' has a Cyclomatic Complexity of 18.
+src/org/mozilla/javascript/optimizer/Codegen.java:4312:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/optimizer/Codegen.java:4560:	Avoid really long methods.
+src/org/mozilla/javascript/optimizer/Codegen.java:4560:	The method 'visitIfJumpRelOp' has a Cyclomatic Complexity of 18.
+src/org/mozilla/javascript/optimizer/Codegen.java:4560:	The method visitIfJumpRelOp() has an NPath complexity of 2079
+src/org/mozilla/javascript/optimizer/Codegen.java:4664:	The method 'visitIfJumpEqOp' has a Cyclomatic Complexity of 20.
+src/org/mozilla/javascript/optimizer/Codegen.java:4664:	The method visitIfJumpEqOp() has an NPath complexity of 264
+src/org/mozilla/javascript/optimizer/Codegen.java:4845:	The method 'visitSetVar' has a Cyclomatic Complexity of 15.
+src/org/mozilla/javascript/optimizer/OptTransformer.java:19:	The class 'OptTransformer' has a Cyclomatic Complexity of 4 (Highest = 14).
+src/org/mozilla/javascript/optimizer/OptTransformer.java:39:	The method 'detectDirectCall' has a Cyclomatic Complexity of 14.
+src/org/mozilla/javascript/optimizer/Optimizer.java:12:	The class 'Optimizer' has a Cyclomatic Complexity of 13 (Highest = 66).
+src/org/mozilla/javascript/optimizer/Optimizer.java:116:	Avoid really long methods.
+src/org/mozilla/javascript/optimizer/Optimizer.java:116:	The method 'rewriteForNumberVariables' has a Cyclomatic Complexity of 66.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:38:	Avoid really long classes.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:38:	The class 'NativeRegExp' has a Cyclomatic Complexity of 9 (Highest = 74).
+src/org/mozilla/javascript/regexp/NativeRegExp.java:278:	The method 'compileRE' has a Cyclomatic Complexity of 23.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:278:	The method compileRE() has an NPath complexity of 7200
+src/org/mozilla/javascript/regexp/NativeRegExp.java:450:	The method 'parseDisjunction' has a Cyclomatic Complexity of 16.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:505:	The method 'parseAlternative' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:534:	Avoid really long methods.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:534:	The method 'calculateBitmapSize' has a Cyclomatic Complexity of 35.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:534:	The method calculateBitmapSize() has an NPath complexity of 8644
+src/org/mozilla/javascript/regexp/NativeRegExp.java:560:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:789:	Avoid really long methods.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:789:	The method 'parseTerm' has a Cyclomatic Complexity of 74.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:789:	The method parseTerm() has an NPath complexity of 46092
+src/org/mozilla/javascript/regexp/NativeRegExp.java:800:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:1083:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:1202:	Avoid really long methods.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:1202:	The method 'emitREBytecode' has a Cyclomatic Complexity of 35.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:1433:	The method 'backrefMatcher' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:1519:	Avoid really long methods.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:1519:	The method 'processCharSetImpl' has a Cyclomatic Complexity of 46.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:1519:	The method processCharSetImpl() has an NPath complexity of 2020
+src/org/mozilla/javascript/regexp/NativeRegExp.java:1548:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:1734:	Avoid really long methods.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:1734:	The method 'simpleMatch' has a Cyclomatic Complexity of 55.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:1913:	Avoid really long methods.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:1913:	The method 'executeREBytecode' has a Cyclomatic Complexity of 71.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:1913:	The method executeREBytecode() has an NPath complexity of 18344
+src/org/mozilla/javascript/regexp/NativeRegExp.java:2334:	The method 'matchRegExp' has a Cyclomatic Complexity of 13.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:2334:	The method matchRegExp() has an NPath complexity of 242
+src/org/mozilla/javascript/regexp/NativeRegExp.java:2400:	Avoid really long methods.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:2400:	The method 'executeRegExp' has a Cyclomatic Complexity of 13.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:2400:	The method executeRegExp() has an NPath complexity of 576
+src/org/mozilla/javascript/regexp/NativeRegExp.java:2561:	The method 'findInstanceIdInfo' has a Cyclomatic Complexity of 14.
+src/org/mozilla/javascript/regexp/NativeRegExp.java:2561:	The method findInstanceIdInfo() has an NPath complexity of 384
+src/org/mozilla/javascript/regexp/NativeRegExp.java:2706:	The method 'findPrototypeId' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/regexp/NativeRegExpCtor.java:24:	The class 'NativeRegExpCtor' has a Cyclomatic Complexity of 9 (Highest = 44).
+src/org/mozilla/javascript/regexp/NativeRegExpCtor.java:108:	The method 'findInstanceIdInfo' has a Cyclomatic Complexity of 44.
+src/org/mozilla/javascript/regexp/NativeRegExpCtor.java:108:	The method findInstanceIdInfo() has an NPath complexity of 1480
+src/org/mozilla/javascript/regexp/NativeRegExpCtor.java:112:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/org/mozilla/javascript/regexp/NativeRegExpCtor.java:164:	The method 'getInstanceIdName' has a Cyclomatic Complexity of 15.
+src/org/mozilla/javascript/regexp/NativeRegExpCtor.java:196:	The method 'getInstanceIdValue' has a Cyclomatic Complexity of 10.
+src/org/mozilla/javascript/regexp/RegExpImpl.java:14:	The class 'RegExpImpl' has a Cyclomatic Complexity of 10 (Highest = 26).
+src/org/mozilla/javascript/regexp/RegExpImpl.java:31:	The method 'action' has a Cyclomatic Complexity of 12.
+src/org/mozilla/javascript/regexp/RegExpImpl.java:31:	The method action() has an NPath complexity of 257
+src/org/mozilla/javascript/regexp/RegExpImpl.java:96:	The method 'matchOrReplace' has a Cyclomatic Complexity of 16.
+src/org/mozilla/javascript/regexp/RegExpImpl.java:274:	The method 'replace_glob' has a Cyclomatic Complexity of 11.
+src/org/mozilla/javascript/regexp/RegExpImpl.java:274:	The method replace_glob() has an NPath complexity of 256
+src/org/mozilla/javascript/regexp/RegExpImpl.java:351:	The method 'interpretDollar' has a Cyclomatic Complexity of 26.
+src/org/mozilla/javascript/regexp/RegExpImpl.java:351:	The method interpretDollar() has an NPath complexity of 10800
+src/org/mozilla/javascript/regexp/RegExpImpl.java:483:	The method 'js_split' has a Cyclomatic Complexity of 22.
+src/org/mozilla/javascript/regexp/RegExpImpl.java:483:	The method js_split() has an NPath complexity of 11568
+src/org/mozilla/javascript/regexp/RegExpImpl.java:590:	Avoid really long methods.
+src/org/mozilla/javascript/regexp/RegExpImpl.java:590:	The method 'find_split' has a Cyclomatic Complexity of 24.
+src/org/mozilla/javascript/regexp/RegExpImpl.java:590:	The method find_split() has an NPath complexity of 194560
+src/org/mozilla/javascript/serialize/ScriptableInputStream.java:52:	Avoid empty catch blocks
+src/org/mozilla/javascript/v8dtoa/FastDtoa.java:33:	The class 'FastDtoa' has a Cyclomatic Complexity of 6 (Highest = 22).
+src/org/mozilla/javascript/v8dtoa/FastDtoa.java:63:	Avoid really long methods.
+src/org/mozilla/javascript/v8dtoa/FastDtoa.java:180:	The method 'biggestPowerTen' has a Cyclomatic Complexity of 22.
+testsrc/org/mozilla/javascript/drivers/JsDriver.java:429:	A catch statement should never catch throwable since it includes errors.
+testsrc/org/mozilla/javascript/drivers/JsDriver.java:471:	A catch statement should never catch throwable since it includes errors.
+testsrc/org/mozilla/javascript/drivers/JsDriver.java:588:	The class 'Arguments' has a Cyclomatic Complexity of 2 (Highest = 10).
+testsrc/org/mozilla/javascript/drivers/JsDriver.java:770:	The method 'process' has a Cyclomatic Complexity of 10.
+testsrc/org/mozilla/javascript/drivers/ShellTest.java:24:	The class 'ShellTest' has a Cyclomatic Complexity of 3 (Highest = 15).
+testsrc/org/mozilla/javascript/drivers/ShellTest.java:60:	The class 'Status' has a Cyclomatic Complexity of 3 (Highest = 13).
+testsrc/org/mozilla/javascript/drivers/ShellTest.java:95:	The method 'compose' has a Cyclomatic Complexity of 13.
+testsrc/org/mozilla/javascript/drivers/ShellTest.java:136:	The class 'JsError' has a Cyclomatic Complexity of 2 (Highest = 10).
+testsrc/org/mozilla/javascript/drivers/ShellTest.java:163:	The method 'toString' has a Cyclomatic Complexity of 10.
+testsrc/org/mozilla/javascript/drivers/ShellTest.java:253:	Avoid really long methods.
+testsrc/org/mozilla/javascript/drivers/ShellTest.java:253:	The method 'run' has a Cyclomatic Complexity of 15.
+testsrc/org/mozilla/javascript/drivers/ShellTest.java:253:	The method run() has an NPath complexity of 864
+testsrc/org/mozilla/javascript/drivers/ShellTest.java:293:	Avoid empty catch blocks
+testsrc/org/mozilla/javascript/drivers/ShellTest.java:294:	A catch statement should never catch throwable since it includes errors.
+testsrc/org/mozilla/javascript/tests/ClassShutterExceptionTest.java:73:	Avoid empty catch blocks
+testsrc/org/mozilla/javascript/tests/MozillaSuiteTest.java:224:	A catch statement should never catch throwable since it includes errors.
+testsrc/org/mozilla/javascript/tests/MozillaSuiteTest.java:224:	Avoid empty catch blocks
+testsrc/org/mozilla/javascript/tests/ObserveInstructionCountTest.java:89:	Avoid empty catch blocks
+testsrc/org/mozilla/javascript/tests/ParserTest.java:22:	Avoid really long classes.
+testsrc/org/mozilla/javascript/tests/commonjs/module/RequireJarTest.java:34:	Avoid empty catch blocks
+testsrc/org/mozilla/javascript/tests/commonjs/module/RequireTest.java:36:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/SourceReader.java:22:	The class 'SourceReader' has a Cyclomatic Complexity of 19 (Highest = 34).
+toolsrc/org/mozilla/javascript/tools/SourceReader.java:31:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/SourceReader.java:38:	The method 'readFileOrUrl' has a Cyclomatic Complexity of 34.
+toolsrc/org/mozilla/javascript/tools/SourceReader.java:38:	The method readFileOrUrl() has an NPath complexity of 948
+toolsrc/org/mozilla/javascript/tools/debugger/Dim.java:17:	Avoid really long classes.
+toolsrc/org/mozilla/javascript/tools/debugger/Dim.java:17:	The class 'Dim' has a Cyclomatic Complexity of 3 (Highest = 24).
+toolsrc/org/mozilla/javascript/tools/debugger/Dim.java:268:	The method 'loadSource' has a Cyclomatic Complexity of 11.
+toolsrc/org/mozilla/javascript/tools/debugger/Dim.java:297:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/Dim.java:399:	The method 'getNormalizedUrl' has a Cyclomatic Complexity of 13.
+toolsrc/org/mozilla/javascript/tools/debugger/Dim.java:399:	The method getNormalizedUrl() has an NPath complexity of 292
+toolsrc/org/mozilla/javascript/tools/debugger/Dim.java:705:	Avoid really long methods.
+toolsrc/org/mozilla/javascript/tools/debugger/Dim.java:705:	The method 'interrupted' has a Cyclomatic Complexity of 24.
+toolsrc/org/mozilla/javascript/tools/debugger/Dim.java:705:	The method interrupted() has an NPath complexity of 12500
+toolsrc/org/mozilla/javascript/tools/debugger/Dim.java:879:	The class 'DimIProxy' has a Cyclomatic Complexity of 4 (Highest = 12).
+toolsrc/org/mozilla/javascript/tools/debugger/Dim.java:946:	The method 'run' has a Cyclomatic Complexity of 12.
+toolsrc/org/mozilla/javascript/tools/debugger/Dim.java:1341:	The class 'SourceInfo' has a Cyclomatic Complexity of 4 (Highest = 19).
+toolsrc/org/mozilla/javascript/tools/debugger/Dim.java:1376:	The constructor 'SourceInfo' has a Cyclomatic Complexity of 19.
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:62:	The class 'SwingGui' has a Cyclomatic Complexity of 5 (Highest = 40).
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:192:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:209:	Avoid really long methods.
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:372:	The method 'removeWindow' has a Cyclomatic Complexity of 11.
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:476:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:515:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:560:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:572:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:653:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:654:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:713:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:714:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:715:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:804:	Avoid really long methods.
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:804:	The method 'actionPerformed' has a Cyclomatic Complexity of 40.
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:890:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:912:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:930:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:985:	The class 'EvalTextArea' has a Cyclomatic Complexity of 4 (Highest = 18).
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:1084:	The method 'keyPressed' has a Cyclomatic Complexity of 18.
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:1436:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:1535:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:1965:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:2113:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:2815:	The class 'ContextWindow' has a Cyclomatic Complexity of 8 (Highest = 29).
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:2885:	The constructor 'ContextWindow' has a Cyclomatic Complexity of 29.
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:2967:	The method 'check' has a Cyclomatic Complexity of 18.
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:2967:	The method check() has an NPath complexity of 1440
+toolsrc/org/mozilla/javascript/tools/debugger/SwingGui.java:3382:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/idswitch/CodePrinter.java:8:	The class 'CodePrinter' has a Cyclomatic Complexity of 2 (Highest = 11).
+toolsrc/org/mozilla/javascript/tools/idswitch/CodePrinter.java:106:	The method 'put_string_literal_char' has a Cyclomatic Complexity of 11.
+toolsrc/org/mozilla/javascript/tools/idswitch/Main.java:15:	The class 'Main' has a Cyclomatic Complexity of 5 (Highest = 21).
+toolsrc/org/mozilla/javascript/tools/idswitch/Main.java:92:	The method 'process_file' has a Cyclomatic Complexity of 21.
+toolsrc/org/mozilla/javascript/tools/idswitch/Main.java:106:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+toolsrc/org/mozilla/javascript/tools/idswitch/Main.java:203:	The method 'extract_line_tag_id' has a Cyclomatic Complexity of 21.
+toolsrc/org/mozilla/javascript/tools/idswitch/Main.java:203:	The method extract_line_tag_id() has an NPath complexity of 258
+toolsrc/org/mozilla/javascript/tools/idswitch/Main.java:481:	The method 'process_options' has a Cyclomatic Complexity of 14.
+toolsrc/org/mozilla/javascript/tools/idswitch/SwitchGenerator.java:11:	The class 'SwitchGenerator' has a Cyclomatic Complexity of 4 (Highest = 19).
+toolsrc/org/mozilla/javascript/tools/idswitch/SwitchGenerator.java:93:	The method 'generate_length_switch' has a Cyclomatic Complexity of 12.
+toolsrc/org/mozilla/javascript/tools/idswitch/SwitchGenerator.java:182:	Avoid really long methods.
+toolsrc/org/mozilla/javascript/tools/idswitch/SwitchGenerator.java:182:	The method 'generate_letter_switch_r' has a Cyclomatic Complexity of 19.
+toolsrc/org/mozilla/javascript/tools/idswitch/SwitchGenerator.java:182:	The method generate_letter_switch_r() has an NPath complexity of 2520
+toolsrc/org/mozilla/javascript/tools/idswitch/SwitchGenerator.java:409:	The method 'heapify4' has a Cyclomatic Complexity of 13.
+toolsrc/org/mozilla/javascript/tools/idswitch/SwitchGenerator.java:409:	The method heapify4() has an NPath complexity of 495
+toolsrc/org/mozilla/javascript/tools/jsc/Main.java:17:	The class 'Main' has a Cyclomatic Complexity of 8 (Highest = 50).
+toolsrc/org/mozilla/javascript/tools/jsc/Main.java:55:	Avoid really long methods.
+toolsrc/org/mozilla/javascript/tools/jsc/Main.java:55:	The method 'processOptions' has a Cyclomatic Complexity of 50.
+toolsrc/org/mozilla/javascript/tools/jsc/Main.java:55:	The method processOptions() has an NPath complexity of 1037836801
+toolsrc/org/mozilla/javascript/tools/jsc/Main.java:220:	The method 'processSource' has a Cyclomatic Complexity of 12.
+toolsrc/org/mozilla/javascript/tools/jsc/Main.java:220:	The method processSource() has an NPath complexity of 577
+toolsrc/org/mozilla/javascript/tools/shell/ConsoleTextArea.java:75:	The class 'ConsoleTextArea' has a Cyclomatic Complexity of 3 (Highest = 18).
+toolsrc/org/mozilla/javascript/tools/shell/ConsoleTextArea.java:146:	The method 'keyPressed' has a Cyclomatic Complexity of 18.
+toolsrc/org/mozilla/javascript/tools/shell/Global.java:32:	Avoid really long classes.
+toolsrc/org/mozilla/javascript/tools/shell/Global.java:32:	The class 'Global' has a Cyclomatic Complexity of 4 (Highest = 27).
+toolsrc/org/mozilla/javascript/tools/shell/Global.java:410:	The method 'runDoctest' has a Cyclomatic Complexity of 14.
+toolsrc/org/mozilla/javascript/tools/shell/Global.java:410:	The method runDoctest() has an NPath complexity of 489
+toolsrc/org/mozilla/javascript/tools/shell/Global.java:491:	The method 'doctestOutputMatches' has a Cyclomatic Complexity of 12.
+toolsrc/org/mozilla/javascript/tools/shell/Global.java:491:	The method doctestOutputMatches() has an NPath complexity of 776
+toolsrc/org/mozilla/javascript/tools/shell/Global.java:640:	Avoid really long methods.
+toolsrc/org/mozilla/javascript/tools/shell/Global.java:640:	The method 'runCommand' has a Cyclomatic Complexity of 27.
+toolsrc/org/mozilla/javascript/tools/shell/Global.java:640:	The method runCommand() has an NPath complexity of 7482240
+toolsrc/org/mozilla/javascript/tools/shell/Global.java:900:	The method 'runProcess' has a Cyclomatic Complexity of 10.
+toolsrc/org/mozilla/javascript/tools/shell/Global.java:1000:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/shell/Global.java:1042:	The method 'readUrl' has a Cyclomatic Complexity of 11.
+toolsrc/org/mozilla/javascript/tools/shell/Global.java:1093:	The method 'getCharCodingFromType' has a Cyclomatic Complexity of 13.
+toolsrc/org/mozilla/javascript/tools/shell/JSConsole.java:27:	The class 'JSConsole' has a Cyclomatic Complexity of 6 (Highest = 12).
+toolsrc/org/mozilla/javascript/tools/shell/JSConsole.java:152:	The method 'actionPerformed' has a Cyclomatic Complexity of 12.
+toolsrc/org/mozilla/javascript/tools/shell/Main.java:54:	The class 'Main' has a Cyclomatic Complexity of 5 (Highest = 34).
+toolsrc/org/mozilla/javascript/tools/shell/Main.java:257:	Avoid really long methods.
+toolsrc/org/mozilla/javascript/tools/shell/Main.java:257:	The method 'processOptions' has a Cyclomatic Complexity of 34.
+toolsrc/org/mozilla/javascript/tools/shell/Main.java:257:	The method processOptions() has an NPath complexity of 72576001
+toolsrc/org/mozilla/javascript/tools/shell/Main.java:444:	The method 'processSource' has a Cyclomatic Complexity of 21.
+toolsrc/org/mozilla/javascript/tools/shell/Main.java:444:	The method processSource() has an NPath complexity of 1164
+toolsrc/org/mozilla/javascript/tools/shell/Main.java:570:	The method 'processFileSecure' has a Cyclomatic Complexity of 10.
+toolsrc/org/mozilla/javascript/tools/shell/ShellLine.java:68:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/shell/ShellLine.java:69:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/shell/ShellLine.java:70:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/shell/ShellLine.java:71:	Avoid empty catch blocks
+toolsrc/org/mozilla/javascript/tools/shell/ShellLine.java:82:	The class 'FlexibleCompletor' has a Cyclomatic Complexity of 5 (Highest = 11).
+toolsrc/org/mozilla/javascript/tools/shell/ShellLine.java:104:	The method 'complete' has a Cyclomatic Complexity of 11.
+toolsrc/org/mozilla/javascript/tools/shell/ShellLine.java:104:	The method complete() has an NPath complexity of 420
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLCtor.java:11:	The class 'XMLCtor' has a Cyclomatic Complexity of 5 (Highest = 12).
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLCtor.java:86:	The method 'findInstanceIdInfo' has a Cyclomatic Complexity of 12.
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLCtor.java:86:	The method findInstanceIdInfo() has an NPath complexity of 288
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLLibImpl.java:15:	The class 'XMLLibImpl' has a Cyclomatic Complexity of 3 (Highest = 17).
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLLibImpl.java:127:	The method 'toAttributeName' has a Cyclomatic Complexity of 10.
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLLibImpl.java:200:	The method 'toXMLNameOrIndex' has a Cyclomatic Complexity of 17.
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLLibImpl.java:423:	The method 'ecmaToXml' has a Cyclomatic Complexity of 10.
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLLibImpl.java:423:	The method ecmaToXml() has an NPath complexity of 216
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLList.java:13:	The class 'XMLList' has a Cyclomatic Complexity of 3 (Highest = 21).
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLList.java:111:	The method 'putXMLProperty' has a Cyclomatic Complexity of 11.
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLList.java:177:	Avoid really long methods.
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLList.java:177:	The method 'put' has a Cyclomatic Complexity of 21.
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLList.java:177:	The method put() has an NPath complexity of 2016
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLList.java:749:	The method 'call' has a Cyclomatic Complexity of 10.
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLName.java:11:	The class 'XMLName' has a Cyclomatic Complexity of 3 (Highest = 14).
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLName.java:254:	The method 'setMyValueOn' has a Cyclomatic Complexity of 14.
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLName.java:388:	The method 'matches' has a Cyclomatic Complexity of 14.
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLObjectImpl.java:18:	The class 'XMLObjectImpl' has a Cyclomatic Complexity of 4 (Highest = 75).
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLObjectImpl.java:444:	The method 'findPrototypeId' has a Cyclomatic Complexity of 57.
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLObjectImpl.java:444:	The method findPrototypeId() has an NPath complexity of 200
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLObjectImpl.java:448:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLObjectImpl.java:525:	The method 'initPrototypeId' has a Cyclomatic Complexity of 43.
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLObjectImpl.java:602:	Avoid really long methods.
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLObjectImpl.java:602:	The method 'execIdCall' has a Cyclomatic Complexity of 75.
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XMLObjectImpl.java:602:	The method execIdCall() has an NPath complexity of 872
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XmlNode.java:56:	The method newElementWithText() has an NPath complexity of 200
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XmlProcessor.java:26:	The class 'XmlProcessor' has a Cyclomatic Complexity of 3 (Highest = 12).
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XmlProcessor.java:169:	Avoid empty catch blocks
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XmlProcessor.java:218:	The method 'toXml' has a Cyclomatic Complexity of 12.
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XmlProcessor.java:390:	The method 'beautifyElement' has a Cyclomatic Complexity of 12.
+xmlimplsrc/org/mozilla/javascript/xmlimpl/XmlProcessor.java:397:	Avoid really long methods.
